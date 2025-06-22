@@ -10,9 +10,12 @@ class dataTypes {
         float e=3.1415F;//smaller range
         double f=1.2335672723;//larger range
 
-        //characters
-        char g='a';
+        //boolean values
+        boolean g=true;//stores either true or false
 
-        System.out.println("Values of a,b,c,d,e,f,g respectively "+a+" "+b+" "+c+" "+d+" "+e+" "+f+" "+g+" ");
+        //characters
+        char h='a';
+
+        System.out.println("Values of a,b,c,d,e,f,g respectively "+a+" "+b+" "+c+" "+d+" "+e+" "+f+" "+g+" "+h);
         }
 }
